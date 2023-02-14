@@ -2,8 +2,6 @@
 
 This repository contains an exploratory data analysis of used car sales in the US between the years 2018 and 2020. As a group, our objective was to find answers to the following three questions:
 
-REASONS WHY WE FOUND QUESTIONS INTERESTING/WHAT MOTIVATED US TO ANSWER THEM!!!
-
 1. What specifications of a vehicle appear to have the largest impact on price?
 2. What is the most commonly seen price point for certain vehicles?
 3. How does the value of vehicle change over time? And is there any statistically significant differences between the trends of different makes and models?
