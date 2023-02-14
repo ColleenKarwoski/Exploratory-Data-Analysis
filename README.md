@@ -2,11 +2,17 @@
 
 This repository contains an exploratory data analysis of used car sales in the US between the years 2018 and 2020. As a group, our objective was to find answers to the following three questions:
 
+REASONS WHY WE FOUND QUESTIONS INTERESTING/WHAT MOTIVATED US TO ANSWER THEM!!!
+
 1. What specifications of a vehicle appear to have the largest impact on price?
 2. What is the most commonly seen price point for certain vehicles?
 3. How does the value of vehicle change over time? And is there any statistically significant differences between the trends of different makes and models?
 
 To find the answers to these questions, we used data from a US used car sales CSV file found on Kaggle (the original CSV as well as a CSV containing the cleaned version of the data set can be found within the Resources folder of this repository entitled "used_car_sales.csv" and "cleaned_used_car_data.csv" respectively).
+
+![alt text](https://github.com/DanielPapp3/project1-group2/blob/main/Images/Original%20Dataset.PNG)
+
+The original data set (pictured above) had some issues that we cleaned up in the final data set including non-numerical zip codes and unusual price and mileage values. We eliminated zip codes that contained non-numerical characters and ensured that the remaining codes matched a record of US zip codes using a database maintained by the USPS (link to USPS data here). We also eliminated records for vehicles that were sold for less than $100 or had more than 400,000 miles. The resulting data set is pictured below.
 
 ![alt text](https://github.com/DanielPapp3/project1-group2/blob/main/Images/Original%20Dataset.PNG)
 
