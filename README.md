@@ -14,7 +14,7 @@ To find the answers to these questions, we used data from a US used car sales CS
 
 The original data set (pictured above) had some issues that we cleaned up in the final data set including non-numerical zip codes and unusual price and mileage values. We eliminated zip codes that contained non-numerical characters and ensured that the remaining codes matched a record of US zip codes using a database maintained by the USPS (link to USPS data here). We also eliminated records for vehicles that were sold for less than $100 or had more than 400,000 miles. The resulting data set is pictured below.
 
-![alt text](https://github.com/DanielPapp3/project1-group2/blob/main/Images/Original%20Dataset.PNG)
+![alt text](https://github.com/DanielPapp3/project1-group2/blob/main/Images/Cleaned%20Dataset.PNG)
 
 The results of our exploratory data analysis showed that after controlling for the make and model of the vehicle, age and mileage explained a respectable amount of the variation in the prices of different vehicles. One model that showed a particularly strong correlation was ???. In that case roughly ???% of the price variance could be explained by mileage and ???% by age.
 
