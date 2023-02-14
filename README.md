@@ -24,4 +24,6 @@ The most common price point for vehicles varied wildly across different makes an
 
 [INSERT HISTOGRAM HERE]
 
-Based on this exploratory data analysis we were unable to find any consistently explanable differences between the price trends of different makes and models over time. With the exception of some cars that are considered collectors items/vintage, most vehicles saw their value dwindle over time at a fairly similar rate.
+Based on this exploratory data analysis we were unable to find any consistently explanable differences between the price trends of different makes and models over time. With the exception of some cars that are considered collectors items/vintage, most vehicles saw their value dwindle over time at a fairly similar rate as shown in the line graph below.
+
+[INSERT CHART HERE]
